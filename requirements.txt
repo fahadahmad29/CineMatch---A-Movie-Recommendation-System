@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+nltk
+scikit-learn
+httpx
+fastapi[standard]
+streamlit
